@@ -16,7 +16,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "ig": "0.0.5",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "material-ui": "^0.20.2",
     "moment": "^2.24.0",
     "react": "^16.13.1",
